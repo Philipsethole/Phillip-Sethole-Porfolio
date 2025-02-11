@@ -1,0 +1,7 @@
+[theme]
+primaryColor = "#4CAF50"  # Green for AI/ML vibes
+backgroundColor = "#121212"  # Dark mode
+secondaryBackgroundColor = "#1E1E1E"  # Darker gray
+textColor = "#FFFFFF"  # White text for contrast
+font = "sans serif"
+
